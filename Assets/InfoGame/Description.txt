@@ -1,0 +1,5 @@
+Short Description
+DINO HEART SHOT is an engaging game where players control a dinosaur to shoot hearts at another moving dinosaur. The goal is to accurately send hearts to the target dinosaur, requiring precision and timing to succeed.
+
+Long Description
+DINO HEART SHOT is a unique and entertaining game that pits two dinosaurs against each other in a heartwarming battle. Players take control of one dinosaur, aiming to shoot hearts towards another dinosaur that moves dynamically across the screen. The objective is to successfully send as many hearts as possible to the target dinosaur within a limited time. With each level, the difficulty increases as the target dinosaur moves faster and more unpredictably. This game combines elements of strategy, precision, and quick reflexes, making it a delightful experience for players of all ages. Whether you're looking to improve your aim or simply enjoy a fun and lighthearted game, DINOHEARTSHOT offers hours of entertainment.
