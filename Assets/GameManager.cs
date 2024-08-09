@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
     [SerializeField] private LevelConfig[] levelConfig;
-    private LevelConfig currentLevelConfig;
+    [SerializeField] private LevelConfig currentLevelConfig;
     public LevelConfig CurrentLevelConfig{
         get { return currentLevelConfig; }
         set { currentLevelConfig = value; }
